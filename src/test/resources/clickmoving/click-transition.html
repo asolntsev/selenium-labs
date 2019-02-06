@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Click me if you can</title>
+</head>
+<body>
+  <h1>You clicked:</h1>
+  <div id="coordinates">_</div>
+
+  <div id="target" style="width: 100px; height: 100px; position: absolute; top: 200px; left: 0; background-color: lightgrey;">Click me if you can</div>
+  <div id="failure" style="color: red; font-size: 72px;"></div>
+
+  <script>
+    var target = document.getElementById('target');
+
+    function onClick(e) {
+      document.getElementById('coordinates').innerText = 'clicked ' +
+        e.clientX + ':' + e.clientY +
+        ',    center: ' + centerX() + ':' + centerY();
+
+      if (e.clientX === centerX() && e.clientY === centerY()) {
+        target.style.border = '2px solid green';
+      }
+      else {
+        target.style.border = '4px solid red';
+        document.getElementById('failure').innerText =
+          'CLICK MISSED: ' + e.clientX + ':' + e.clientY +
+          ", but center was: " + centerX() + ':' + centerY();
+      }
+    }
+    target.addEventListener('click', onClick);
+
+    function centerX() {
+      return target.offsetLeft + target.offsetWidth / 2;
+    }
+    function centerY() {
+      return target.offsetTop + target.offsetHeight / 2;
+    }
+
+    function resize() {
+      target.style.transition = 'width 10s';
+      target.style.width = '1200px';
+    }
+    setTimeout(resize, 10);
+  </script>
+</body>
+</html>
