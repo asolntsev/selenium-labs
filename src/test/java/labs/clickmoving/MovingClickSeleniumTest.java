@@ -10,6 +10,7 @@ class MovingClickSeleniumTest extends BaseSeleniumTest {
     webDriver.navigate().to(getClass().getResource("/clickmoving/click.html"));
 
     for (int i = 0; i < 100; i++) {
+      System.out.println(" " + "MovingClickSeleniumTest.clickMovingElement " + i);
       webDriver.findElement(By.id("target")).click();
       pause();
     }
@@ -20,6 +21,7 @@ class MovingClickSeleniumTest extends BaseSeleniumTest {
     webDriver.navigate().to(getClass().getResource("/clickmoving/click-transition.html"));
 
     for (int i = 0; i < 100; i++) {
+      System.out.println(" " + "MovingClickSeleniumTest.clickResizingElement " + i);
       webDriver.findElement(By.id("target")).click();
       pause();
     }

@@ -8,11 +8,13 @@ import static com.codeborne.selenide.Selenide.open;
 
 class ConfirmTest {
   @Test
-  void redirect() {
+  void clickConfirm() {
     Configuration.browser = "chrome";
     Configuration.headless = true;
 
     for (int i = 0; i < 1000; i++) {
+      System.out.println(" ConfirmTest.clickConfirm " + i);
+
       open(getClass().getResource("/alert/confirm.html"));
       confirm("Are you sure?");
     }

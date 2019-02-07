@@ -27,4 +27,10 @@ dependencies {
 test {
   include 'labs/**/*'
   useJUnitPlatform()
+  systemProperties['selenide.headless'] = 'true'
+  systemProperties['BUILD_URL'] = System.getenv()['BUILD_URL']
+  testLogging {
+    outputs.upToDateWhen {false}
+    showStandardStreams = true
+  }
 }

@@ -14,6 +14,7 @@ class MovingClickTest {
     open(getClass().getResource("/clickmoving/click.html"));
 
     for (int i = 0; i < 100; i++) {
+      System.out.println(" " + "MovingClickTest.clickMovingElement " + i);
       $("#target").click();
       sleep(100);
     }
@@ -25,6 +26,7 @@ class MovingClickTest {
     open(getClass().getResource("/clickmoving/click-transition.html"));
 
     for (int i = 0; i < 100; i++){
+      System.out.println(" " + "MovingClickTest.clickResizingElement " + i);
       $("#target").click();
       sleep(100);
     }

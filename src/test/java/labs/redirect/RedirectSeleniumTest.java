@@ -11,6 +11,10 @@ class RedirectSeleniumTest extends BaseSeleniumTest {
   @Test
   void redirect() {
     for (int i = 0; i < 10000; i++) {
+      if (i % 100 == 0 || i < 10000-50) {
+        System.out.println(" RedirectSeleniumTest.redirect " + i);
+      }
+
       webDriver.navigate().to(getClass().getResource("/redirect/404.html"));
       new FluentWait<>(webDriver)
           .withTimeout(ofSeconds(2))

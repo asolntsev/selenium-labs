@@ -14,6 +14,10 @@ class RedirectSelenideTest {
     Configuration.headless = true;
 
     for (int i = 0; i < 10000; i++) {
+      if (i % 100 == 0 || i < 10000-50) {
+        System.out.println(" RedirectSelenideTest.redirect " + i);
+      }
+
       open(getClass().getResource("/redirect/404.html"));
       $("h1").shouldHave(text("This link has no power here"));
     }
