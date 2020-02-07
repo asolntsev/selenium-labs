@@ -18,10 +18,10 @@ repositories {
 }
 
 dependencies {
-  testCompileOnly("org.junit.jupiter:junit-jupiter-api:5.3.2")
-  testRuntime("org.junit.jupiter:junit-jupiter-engine:5.3.2")
+  testCompileOnly("org.junit.jupiter:junit-jupiter-api:5.6.0")
+  testRuntime("org.junit.jupiter:junit-jupiter-engine:5.6.0")
   testImplementation("org.seleniumhq.selenium:selenium-java:3.141.59")
-  testImplementation("com.codeborne:selenide:5.1.0")
+  testImplementation("com.codeborne:selenide:5.7.0")
 }
 
 test {

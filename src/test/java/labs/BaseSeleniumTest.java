@@ -1,5 +1,6 @@
 package labs;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.WebDriver;
@@ -10,6 +11,7 @@ public abstract class BaseSeleniumTest {
 
   @BeforeEach
   void open() {
+    WebDriverManager.chromedriver().setup();
     webDriver = new ChromeDriver();
   }
 
