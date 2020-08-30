@@ -21,7 +21,7 @@ dependencies {
   testCompileOnly("org.junit.jupiter:junit-jupiter-api:5.6.2")
   testRuntime("org.junit.jupiter:junit-jupiter-engine:5.6.2")
   testImplementation("org.seleniumhq.selenium:selenium-java:3.141.59")
-  testImplementation("com.codeborne:selenide:5.14.0")
+  testImplementation("com.codeborne:selenide:5.14.2")
 }
 
 test {
