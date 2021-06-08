@@ -1,549 +1,549 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module relativePaths="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output/>
-    <content url="file://$MODULE_DIR$/">
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true"/>
-      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource"/>
-      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
-      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
     <orderEntry type="inheritedJdk"/>
     <orderEntry type="sourceFolder" forTests="false"/>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.2/3602b523ffae9dabc04c329d73ab39ab04b3cbe2/junit-jupiter-api-5.3.2.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.2/3602b523ffae9dabc04c329d73ab39ab04b3cbe2/junit-jupiter-api-5.3.2.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.2/77c667ed802af6253c68910b6cadfd973f3c6d0b/junit-jupiter-api-5.3.2-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.2/77c667ed802af6253c68910b6cadfd973f3c6d0b/junit-jupiter-api-5.3.2-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.1.0/f8bbba865364a89a15f7fa5168cee77b54aceaef/selenide-5.1.0.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.1.0/f8bbba865364a89a15f7fa5168cee77b54aceaef/selenide-5.1.0.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.1.0/6894279b460a5146324137de83260721afcd2848/selenide-5.1.0-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.1.0/6894279b460a5146324137de83260721afcd2848/selenide-5.1.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/3.141.59/e8e20b741299cb8ffedbd2925a3ab69d08b41063/selenium-java-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/3.141.59/e8e20b741299cb8ffedbd2925a3ab69d08b41063/selenium-java-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/3.141.59/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/selenium-java-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/3.141.59/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/selenium-java-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.3.2/378d1d1b162426ad031522f6d51e3bf28d1631a4/junit-platform-commons-1.3.2.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.3.2/378d1d1b162426ad031522f6d51e3bf28d1631a4/junit-platform-commons-1.3.2.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.3.2/58f3a24c0f76eda58df496649e27e242f0bc6b41/junit-platform-commons-1.3.2-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.3.2/58f3a24c0f76eda58df496649e27e242f0bc6b41/junit-platform-commons-1.3.2-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.0.0/3ef5276905e36f4d8055fe3cb0bdcc7503ffc85d/apiguardian-api-1.0.0.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.0.0/3ef5276905e36f4d8055fe3cb0bdcc7503ffc85d/apiguardian-api-1.0.0.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.0.0/777508fa9f3e03cafb3c1fb2eba3dca317f4b1ee/apiguardian-api-1.0.0-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.0.0/777508fa9f3e03cafb3c1fb2eba3dca317f4b1ee/apiguardian-api-1.0.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.1.1/efd9f971e91074491ea55b19f67b13470cf4fcdd/opentest4j-1.1.1.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.1.1/efd9f971e91074491ea55b19f67b13470cf4fcdd/opentest4j-1.1.1.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.1.1/88a3a2cb15c413565462cea99f201b67bc6d2f10/opentest4j-1.1.1-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.1.1/88a3a2cb15c413565462cea99f201b67bc6d2f10/opentest4j-1.1.1-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.141.59/67137314736c6a2f39a8aa59a562e9616ae5f77e/selenium-chrome-driver-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.141.59/67137314736c6a2f39a8aa59a562e9616ae5f77e/selenium-chrome-driver-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.141.59/b7189fcb53e45dcce1f02cf71bfd7d1a38883fed/selenium-chrome-driver-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.141.59/b7189fcb53e45dcce1f02cf71bfd7d1a38883fed/selenium-chrome-driver-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.141.59/fc09c66f2d0b33b0816d770761ad1d599ef0df29/selenium-edge-driver-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.141.59/fc09c66f2d0b33b0816d770761ad1d599ef0df29/selenium-edge-driver-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.141.59/22496e495104b01c0c38813b1a33285c83eecee9/selenium-edge-driver-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/3.141.59/22496e495104b01c0c38813b1a33285c83eecee9/selenium-edge-driver-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.141.59/a99f2fe2a42747ed9809d4f62f51a9e1b336dde8/selenium-firefox-driver-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.141.59/a99f2fe2a42747ed9809d4f62f51a9e1b336dde8/selenium-firefox-driver-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.141.59/d45a67c085bf718f01c35b3a87a58518ccfcfc92/selenium-firefox-driver-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/3.141.59/d45a67c085bf718f01c35b3a87a58518ccfcfc92/selenium-firefox-driver-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.141.59/677b9b414a3a9bb2aeea89042a7b326edeb13a82/selenium-ie-driver-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.141.59/677b9b414a3a9bb2aeea89042a7b326edeb13a82/selenium-ie-driver-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.141.59/ecc72d92244d4f4dbe6d63814c383f0b29dc1b9f/selenium-ie-driver-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.141.59/ecc72d92244d4f4dbe6d63814c383f0b29dc1b9f/selenium-ie-driver-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/3.141.59/6b11ed01182bfd8bb62ddeae34cf9eadd3cfc7ff/selenium-opera-driver-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/3.141.59/6b11ed01182bfd8bb62ddeae34cf9eadd3cfc7ff/selenium-opera-driver-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/3.141.59/69a0134c983c1cfcccc4b8630614bf05edffc9bd/selenium-opera-driver-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/3.141.59/69a0134c983c1cfcccc4b8630614bf05edffc9bd/selenium-opera-driver-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.141.59/a32b5b88f46ea4b0356079f0d2e2217543923046/selenium-safari-driver-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.141.59/a32b5b88f46ea4b0356079f0d2e2217543923046/selenium-safari-driver-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.141.59/42a01f2f3ba62d46d9a2e527668189b7cf64a06b/selenium-safari-driver-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/3.141.59/42a01f2f3ba62d46d9a2e527668189b7cf64a06b/selenium-safari-driver-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.141.59/8735de5049acf0e761defc65ee5837d6541abaf5/selenium-support-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.141.59/8735de5049acf0e761defc65ee5837d6541abaf5/selenium-support-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.141.59/7e42f1c3e43d22f2c299b74356137dc6f2f455ec/selenium-support-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.141.59/7e42f1c3e43d22f2c299b74356137dc6f2f455ec/selenium-support-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.141.59/1c79ca890c312ff9916bd95df4f0c5182ec722d8/selenium-remote-driver-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.141.59/1c79ca890c312ff9916bd95df4f0c5182ec722d8/selenium-remote-driver-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.141.59/8950c1557ead2cdba4fdb9ba6f107dce3b5f1520/selenium-remote-driver-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.141.59/8950c1557ead2cdba4fdb9ba6f107dce3b5f1520/selenium-remote-driver-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/e006ffd3aa7841e6e9125d9e6691b3a6b7592b05/selenium-api-3.141.59.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/e006ffd3aa7841e6e9125d9e6691b3a6b7592b05/selenium-api-3.141.59.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.8.15/cb36fe3c70ead5fcd016856a7efff908402d86b8/byte-buddy-1.8.15.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.8.15/cb36fe3c70ead5fcd016856a7efff908402d86b8/byte-buddy-1.8.15.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.8.15/a8f95953d78effdd8eca80e92c5b62f648b4a1f5/byte-buddy-1.8.15-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.8.15/a8f95953d78effdd8eca80e92c5b62f648b4a1f5/byte-buddy-1.8.15-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/efd2543e352e55ce5a685eed6db8af028b737905/commons-exec-1.3-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/efd2543e352e55ce5a685eed6db8af028b737905/commons-exec-1.3-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-jre/7319c34fa5866a85b6bad445adad69d402323129/guava-25.0-jre.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-jre/7319c34fa5866a85b6bad445adad69d402323129/guava-25.0-jre.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-jre/30ade485699e7782cc2369b0e5d3d8e0bfc317c/guava-25.0-jre-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-jre/30ade485699e7782cc2369b0e5d3d8e0bfc317c/guava-25.0-jre-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.11.0/75966e05a49046ca2ae734e5626f28837a8d1e82/okhttp-3.11.0.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.11.0/75966e05a49046ca2ae734e5626f28837a8d1e82/okhttp-3.11.0.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.11.0/cf16b99519850b1adc3b259c90fd8566a0f592f3/okhttp-3.11.0-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.11.0/cf16b99519850b1adc3b259c90fd8566a0f592f3/okhttp-3.11.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/e7c96b4fe5651490d8f3c022042940d743a3bdd9/okio-1.14.0-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/e7c96b4fe5651490d8f3c022042940d743a3bdd9/okio-1.14.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/3.1.1/f4140bac7dee52ff665d6e89a9ab50dc13b71de3/webdrivermanager-3.1.1.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/3.1.1/f4140bac7dee52ff665d6e89a9ab50dc13b71de3/webdrivermanager-3.1.1.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/3.1.1/366cc31cff3e3ce02c8c41d98e9f549e2b69bb18/webdrivermanager-3.1.1-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/3.1.1/366cc31cff3e3ce02c8c41d98e9f549e2b69bb18/webdrivermanager-3.1.1-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar!/" />
         </CLASSES>
-        <JAVADOC/>
-        <SOURCES/>
+        <JAVADOC />
+        <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/fc89b03860d11d6213d0154a62bcd1c2f69b9efa/checker-compat-qual-2.0.0.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/fc89b03860d11d6213d0154a62bcd1c2f69b9efa/checker-compat-qual-2.0.0.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/eb7f7d588d0aef07a2c89178053c2a9e4613947f/checker-compat-qual-2.0.0-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/eb7f7d588d0aef07a2c89178053c2a9e4613947f/checker-compat-qual-2.0.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/39b109f2cd352b2d71b52a3b5a1a9850e1dc304b/error_prone_annotations-2.1.3.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/39b109f2cd352b2d71b52a3b5a1a9850e1dc304b/error_prone_annotations-2.1.3.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/990fe1fd48078a2befecdfcebcad8e6e1bd195a0/error_prone_annotations-2.1.3-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/990fe1fd48078a2befecdfcebcad8e6e1bd195a0/error_prone_annotations-2.1.3-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/dcd31de68a90e41e336f6b7afce0d39285c433d7/j2objc-annotations-1.1-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/dcd31de68a90e41e336f6b7afce0d39285c433d7/j2objc-annotations-1.1-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/2566800dc841d9d2c5a0d34d807e45d4107dbbdf/commons-io-2.6-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/2566800dc841d9d2c5a0d34d807e45d4107dbbdf/commons-io-2.6-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/557edd918fd41f9260963583ebf5a61a43a6b423/commons-lang3-3.7.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/557edd918fd41f9260963583ebf5a61a43a6b423/commons-lang3-3.7.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/e7e36219edde1c66c93495a75490d8f526c377cb/commons-lang3-3.7-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/e7e36219edde1c66c93495a75490d8f526c377cb/commons-lang3-3.7-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/1603dfd56ebcd583ccdf337b6c3984ac55d89e58/httpclient-4.5.5.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/1603dfd56ebcd583ccdf337b6c3984ac55d89e58/httpclient-4.5.5.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/9fd59f6f22326a4241f9524fdfd66a1f34824054/httpclient-4.5.5-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/9fd59f6f22326a4241f9524fdfd66a1f34824054/httpclient-4.5.5-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/0.8.0/641bbf480556ffa57d91ee8c182f1c1fefee3bbf/jarchivelib-0.8.0.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/0.8.0/641bbf480556ffa57d91ee8c182f1c1fefee3bbf/jarchivelib-0.8.0.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/0.8.0/61d558ef4b8e084d0154699eb5b1cdad7c81eb35/jarchivelib-0.8.0-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/0.8.0/61d558ef4b8e084d0154699eb5b1cdad7c81eb35/jarchivelib-0.8.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/36da09a8f68484523fa2aaa100399d612b247d67/jsoup-1.11.3.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/36da09a8f68484523fa2aaa100399d612b247d67/jsoup-1.11.3.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/a86ce739e5a7175b4b234c290a00a5fdb80957a0/httpcore-4.4.9.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/a86ce739e5a7175b4b234c290a00a5fdb80957a0/httpcore-4.4.9.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/5808b4637c385d939e901eee3dc5f1121fc73a3b/httpcore-4.4.9-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/5808b4637c385d939e901eee3dc5f1121fc73a3b/httpcore-4.4.9-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/43a23e357fa7b187c261520914c0b001ea1a62a2/commons-compress-1.14-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/43a23e357fa7b187c261520914c0b001ea1a62a2/commons-compress-1.14-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/browsermob-core/2.1.5/19b2a3f6c911b85793fa2ca4dbfb350dd9c01429/browsermob-core-2.1.5.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/browsermob-core/2.1.5/19b2a3f6c911b85793fa2ca4dbfb350dd9c01429/browsermob-core-2.1.5.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/browsermob-core/2.1.5/fce907d38d0bb6e778232b5337695010549d8dc6/browsermob-core-2.1.5-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/browsermob-core/2.1.5/fce907d38d0bb6e778232b5337695010549d8dc6/browsermob-core-2.1.5-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/littleproxy/1.1.0-beta-bmp-17/8cd8e0a5b3a1d8325a2ebef44ebc12d626995a05/littleproxy-1.1.0-beta-bmp-17.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/littleproxy/1.1.0-beta-bmp-17/8cd8e0a5b3a1d8325a2ebef44ebc12d626995a05/littleproxy-1.1.0-beta-bmp-17.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/littleproxy/1.1.0-beta-bmp-17/1a7d596c9301b404c01d9fc590183b4f46e8f132/littleproxy-1.1.0-beta-bmp-17-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/littleproxy/1.1.0-beta-bmp-17/1a7d596c9301b404c01d9fc590183b4f46e8f132/littleproxy-1.1.0-beta-bmp-17-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/f8c32b13ff142a513eeb5b6330b1588dcb2c0461/jcl-over-slf4j-1.7.25.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.25/ffd0827a7c67d5915b7dc611afbda56a1f247191/jcl-over-slf4j-1.7.25-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.9/4dfca3975be3c1a98eacb829e70f02e9a71bc159/jackson-databind-2.8.9.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.9/4dfca3975be3c1a98eacb829e70f02e9a71bc159/jackson-databind-2.8.9.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.9/98e1b4171628d8f230f6a60b248de84ed04fab0d/jackson-databind-2.8.9-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.9/98e1b4171628d8f230f6a60b248de84ed04fab0d/jackson-databind-2.8.9-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.9/569b1752705da98f49aabe2911cc956ff7d8ed9d/jackson-core-2.8.9.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.9/569b1752705da98f49aabe2911cc956ff7d8ed9d/jackson-core-2.8.9.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.9/8cf3613202ddcd495137f8cb944e2da69964a641/jackson-core-2.8.9-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.9/8cf3613202ddcd495137f8cb944e2da69964a641/jackson-core-2.8.9-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.9/e0e758381a6579cb2029dace23a7209b90ac7232/jackson-annotations-2.8.9.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.9/e0e758381a6579cb2029dace23a7209b90ac7232/jackson-annotations-2.8.9.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.9/830eda77a8aaaf68a87c7dad29b3d6acd4f4f074/jackson-annotations-2.8.9-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.9/830eda77a8aaaf68a87c7dad29b3d6acd4f4f074/jackson-annotations-2.8.9-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.8/eed8a2cbf56cc60d07a189a429ead3067564193c/dnsjava-2.1.8.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.8/eed8a2cbf56cc60d07a189a429ead3067564193c/dnsjava-2.1.8.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.8/68ea3394bb57f20295e0a132211dc00d176c243f/dnsjava-2.1.8-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.8/68ea3394bb57f20295e0a132211dc00d176c243f/dnsjava-2.1.8-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/c01428efa717624f7aabf4df319939dda9646b2d/jzlib-1.1.3.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/c01428efa717624f7aabf4df319939dda9646b2d/jzlib-1.1.3.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/3102d5e0e3e6cdb601b42f7bdcbff13167a2226d/jzlib-1.1.3-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/3102d5e0e3e6cdb601b42f7bdcbff13167a2226d/jzlib-1.1.3-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.51.Final/62e7fe15d645e195e130dcc64165f853bf416897/netty-all-4.0.51.Final.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.51.Final/62e7fe15d645e195e130dcc64165f853bf416897/netty-all-4.0.51.Final.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.51.Final/7f3c38ac3659066a2d864aab1fd894ef17cdca79/netty-all-4.0.51.Final-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.51.Final/7f3c38ac3659066a2d864aab1fd894ef17cdca79/netty-all-4.0.51.Final-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/mitm/2.1.5/4baade9b14a050396439f07ed2b70e44ffa0882c/mitm-2.1.5.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/mitm/2.1.5/4baade9b14a050396439f07ed2b70e44ffa0882c/mitm-2.1.5.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/mitm/2.1.5/ffee2978295ff60a15ef7e8ef35f7ec4cb17f968/mitm-2.1.5-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.lightbody.bmp/mitm/2.1.5/ffee2978295ff60a15ef7e8ef35f7ec4cb17f968/mitm-2.1.5-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.58/15a760a039b040e767a75c77ffcc4ff62558f903/bcpkix-jdk15on-1.58.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.58/15a760a039b040e767a75c77ffcc4ff62558f903/bcpkix-jdk15on-1.58.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.58/f744c76f21a2f592e980260793948ed1cd3cad1d/bcpkix-jdk15on-1.58-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.58/f744c76f21a2f592e980260793948ed1cd3cad1d/bcpkix-jdk15on-1.58-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
       <library>
         <CLASSES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.58/2c9aa1c4e3372b447ba5daabade4adf2a2264b12/bcprov-jdk15on-1.58.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.58/2c9aa1c4e3372b447ba5daabade4adf2a2264b12/bcprov-jdk15on-1.58.jar!/" />
         </CLASSES>
-        <JAVADOC/>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar:///Users/andrei/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.58/6dea249598adbb3a58d67778022c9c603215fa57/bcprov-jdk15on-1.58-sources.jar!/"/>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.58/6dea249598adbb3a58d67778022c9c603215fa57/bcprov-jdk15on-1.58-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
