@@ -22,7 +22,7 @@ dependencies {
   testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.11.4")
   testImplementation("com.codeborne:selenide:7.6.1")
   testRuntimeOnly("org.slf4j:slf4j-simple:2.0.16")
-  testImplementation("org.assertj:assertj-core:3.27.0")
+  testImplementation("org.assertj:assertj-core:3.27.1")
 }
 
 test {
