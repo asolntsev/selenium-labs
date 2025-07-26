@@ -5,6 +5,8 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.Point;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.bidi.browsingcontext.BrowsingContext;
@@ -14,6 +16,8 @@ import org.openqa.selenium.chromium.HasCdp;
 import org.openqa.selenium.devtools.DevTools;
 import org.openqa.selenium.devtools.HasDevTools;
 import org.openqa.selenium.devtools.v138.page.Page;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -40,9 +44,13 @@ public class ScreenshotPerformanceTest {
   static void openBrowser() {
     webDriver = new ChromeDriver(new ChromeOptions().enableBiDi());
     //webDriver = new EdgeDriver(new EdgeOptions().enableBiDi());
-//    webDriver = new FirefoxDriver(new FirefoxOptions().enableBiDi()); // No CDP, but has BiDi
+    //webDriver = new FirefoxDriver(new FirefoxOptions().enableBiDi()); // No CDP, but has BiDi
     //webDriver = new SafariDriver(new SafariOptions()); // No CDP, No BiDi
-    webDriver.navigate().to("https://selenide.org");
+
+    webDriver.manage().window().setPosition(new Point(300, 100));
+    webDriver.manage().window().setSize(new Dimension(1024, 768));
+    webDriver.navigate().to("about:blank");
+    // webDriver.navigate().to("https://selenide.org"); // this makes Chrome BiDi even slower
   }
 
   @AfterAll
