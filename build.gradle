@@ -25,7 +25,7 @@ dependencies {
 
   testImplementation("com.codeborne:selenide:7.9.4")
   testRuntimeOnly("org.slf4j:slf4j-simple:2.0.17")
-  testImplementation("org.assertj:assertj-core:3.27.3")
+  testImplementation("org.assertj:assertj-core:3.27.4")
 }
 
 test {
